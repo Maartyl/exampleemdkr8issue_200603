@@ -1,0 +1,3 @@
+include ':lib-hides-emdk'
+include ':app'
+rootProject.name = "ExampleEmdkR8Issue"
